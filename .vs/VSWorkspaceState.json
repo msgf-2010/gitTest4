@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\redux-contact-app",
+    "\\redux-contact-app\\src",
+    "\\redux-contact-app\\src\\actions",
+    "\\redux-contact-app\\src\\reducers",
+    "\\redux-contact-app\\src\\store"
+  ],
+  "SelectedNode": "\\redux-contact-app\\src\\actions\\contactAction.js",
+  "PreviewInSolutionExplorer": false
+}
